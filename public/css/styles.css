@@ -16,6 +16,17 @@ html {
     font-size: 12px;
     letter-spacing: 5px;
 }
+
+.navbar-brand a{
+  color: #777 !important;
+  text-decoration: none;
+}
+
+.navbar-brand a:hover {
+  color: #1abc9c !important;
+  text-decoration: none;
+}
+
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
 }
